@@ -1,2 +1,1 @@
-# webxrTypescriptDefinition
 WebXR Typescript definition
